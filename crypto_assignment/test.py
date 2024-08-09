@@ -1,5 +1,5 @@
 import pytest
-from app import app
+from myapp import app
 
 @pytest.fixture
 def CovalentAPI():
